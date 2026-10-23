@@ -1,0 +1,7 @@
+port/upstream/src/gen/
+port/upstream/ovl/
+port/upstream/obj/
+__pycache__/
+*.nro
+*.nsp
+*.zip

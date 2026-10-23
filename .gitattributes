@@ -1,0 +1,3 @@
+* text=auto
+*.jpg binary
+port/upstream/** linguist-vendored
